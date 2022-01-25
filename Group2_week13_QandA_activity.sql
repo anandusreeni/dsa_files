@@ -1,5 +1,13 @@
 -- ## GROUP 2 ##--
 
+
+-- Create database
+
+CREATE DATABASE emp_db;
+
+USE emp_db;
+
+
 -- Create the required Table 
 
 CREATE TABLE employees (
