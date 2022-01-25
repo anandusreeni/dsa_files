@@ -1,3 +1,5 @@
+-- ## GROUP 2 ##--
+
 -- Create the required Table 
 
 CREATE TABLE employees (
